@@ -3,7 +3,7 @@
 Hello i made an social media application using firebase using android studio(java).
 I made the application for learning purposes it made me learn how it is to make android application and its my first android application so its not optimized and dont have database security.
 
-# Why Firebase
+# Why Firebase?
 
 To make social media application for mobile you need many services such as authentication, cloud messaging, database and cloud storage. While there are so many options for all services individually. While doing a research i found firebase had all of the necessary services for making social media application.
 

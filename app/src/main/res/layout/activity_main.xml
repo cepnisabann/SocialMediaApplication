@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    
+    <ImageView
+        android:id="@+id/penguinIv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/solcu"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_centerHorizontal="true"/>
+    <ImageView
+        android:id="@+id/penguinIv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/traces"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_centerHorizontal="true"/>
+    <ImageView
+        android:id="@+id/penguinIv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:src="@drawable/sagci"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"/>
+    <ImageView
+        android:id="@+id/penguinIv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sagci"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="20dp"/>
+
+    <!--Button: Register-->
+    <Button
+        android:id="@+id/register_btn"
+        android:text="             Register             "
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        />
+
+    <!--Button: Login-->
+    <Button
+        android:id="@+id/login_btn"
+        android:text="                 Login                 "
+        android:layout_below="@id/register_btn"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        />
+
+</RelativeLayout>

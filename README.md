@@ -24,3 +24,6 @@ To make social media application for mobile you need many services such as authe
 ![Pengui4](https://i.ibb.co/54Ssgpd/18.png)
 ![Pengui5](https://i.ibb.co/vhK9JX5/20.png)
 ![Pengui6](https://i.ibb.co/YWLN9Jr/21.png)
+
+
+  Applications all design and themes are made with [Nur Kaplan](https://www.linkedin.com/in/m-nur-kaplan/)
